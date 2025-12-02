@@ -1,12 +1,40 @@
 {
-  "lastId": 2,
+  "lastId": 5,
   "notes": [
     {
       "id": 1,
-      "title": "spooky!!!",
-      "content": "spooky note update",
-      "created": "2025-11-18T16:11:55.506Z",
-      "changed": "2025-11-18T22:08:28.213Z"
+      "title": "first note",
+      "content": "coffee!!",
+      "created": "2025-12-02T18:27:53.245Z",
+      "changed": "2025-12-02T18:31:09.073Z"
+    },
+    {
+      "id": 2,
+      "title": "second note",
+      "content": "people should know about opossums!!",
+      "created": "2025-12-02T18:28:25.140Z",
+      "changed": "2025-12-02T18:28:25.140Z"
+    },
+    {
+      "id": 3,
+      "title": "third note",
+      "content": "idk more coffee",
+      "created": "2025-12-02T18:28:40.034Z",
+      "changed": "2025-12-02T18:28:40.034Z"
+    },
+    {
+      "id": 4,
+      "title": "fourth note",
+      "content": "i like twenty one pilots",
+      "created": "2025-12-02T18:29:01.062Z",
+      "changed": "2025-12-02T18:29:01.062Z"
+    },
+    {
+      "id": 5,
+      "title": "i forgor",
+      "content": "i need to text my friends back. i forgor..",
+      "created": "2025-12-02 21:33:26",
+      "changed": "2025-12-02 21:33:26"
     }
   ]
 }
