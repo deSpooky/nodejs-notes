@@ -119,7 +119,7 @@ router.put('/note/:id', (req, res) => {
     note.title = title
   }
   if (content !== undefined) note.content = content
-  note.changed = new Date().toISOString()
+  note.changed = new Date().toLocaleString('sv-SE', { timeZone: 'Europe/Moscow' }).replace('T', ' ')
   writeDb(db)
   res.status(204).send()
 })
