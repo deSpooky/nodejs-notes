@@ -1,5 +1,5 @@
 {
-  "lastId": 5,
+  "lastId": 6,
   "notes": [
     {
       "id": 1,
@@ -35,6 +35,13 @@
       "content": "i need to text my friends back. i forgor..",
       "created": "2025-12-02 21:33:26",
       "changed": "2025-12-02 21:33:26"
+    },
+    {
+      "id": 6,
+      "title": "spooky",
+      "content": "testing testing",
+      "created": "2025-12-03 16:59:54",
+      "changed": "2025-12-03 16:59:54"
     }
   ]
 }
